@@ -1,0 +1,30 @@
+html, body {
+	margin: -8px;
+	padding: 0;
+}
+
+nav {
+	width: 100%;
+	border-top, border-bottom: 1px solid #AAAAAA;
+	box-shadow: 0 3px 0 rgba(0, 0, 0, 0.2);
+	background-color: darkgreen;
+	opacity: 0.9;
+}
+
+nav ul li {
+	display: inline-block;
+	padding: 40px 20px;
+}
+
+nav ul li a {
+	font-size: 27px;
+	text-decoration: none;
+	color: #fff;
+	font-weight: bold;
+}
+
+nav ul li a:hover {
+	text-decoration: none;
+	background-color: #fff;
+	color: darkgreen;
+}

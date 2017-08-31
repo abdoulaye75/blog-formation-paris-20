@@ -1,0 +1,2 @@
+<h1> Journée du 07 août </h1>
+<p> Live coding sur phpmailer animé par moi. Style du chef d'oeuvre fait en css. Bouton géré avec javascript. Review client. Fin du 1er sprint. Planification du 2e sprint </p>

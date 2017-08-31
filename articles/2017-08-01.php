@@ -1,0 +1,2 @@
+<h1> Journée du 01 août </h1>
+<p> Nouveau projet : chef d'oeuvre en solo. Définition des users stories, des niveaux de difficultés et des lots. Découpage des users stories en tâches techniques. Roadmap </p>

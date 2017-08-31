@@ -1,0 +1,2 @@
+<h1> Journée du 24 juillet </h1>
+<p> Petit entretien sur la lettre de motivation. Initiation aux routes du contrôleur et au CRUD avec Symfony <a href="https://www.youtube.com/watch?v=-xTmQ_iv5NI" target="_blank"> vidéo youtube </a> </p>
